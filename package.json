@@ -1,0 +1,9 @@
+{
+  "name": "financas-brique",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Controle de brique e finanças da casa",
+  "engines": { "node": ">=24.0.0" },
+  "scripts": { "start": "node server.mjs", "test": "node --test tests/*.test.mjs" }
+}
